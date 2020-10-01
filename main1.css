@@ -1,0 +1,8 @@
+.redBg{
+    color: skyblue;
+    background-color: yellow;
+    height: 260px;
+    width: 100px;
+    border:2px solid red;
+    background-repeat: repeat-x;
+}
